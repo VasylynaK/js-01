@@ -1,0 +1,16 @@
+input {
+    width: 30px;
+    text-align: center;
+    display: inline;
+    border-color: red;
+}
+p {
+    display: inline;
+    margin-right: 7px;
+}
+
+#argumentActionB, #argumentActionC {
+    width: 20px;
+    border-color: blue;
+    margin-right: 7px;
+}
