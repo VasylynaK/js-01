@@ -1,5 +1,5 @@
 var name = prompt("What is your name?");
-var greating = "Hello " + name;
+var greating = "Hello " + name +'.' + " I will help you solve the quadratic equation";
 document.write(greating);
 
 function squareRoot (a,b,c) {
