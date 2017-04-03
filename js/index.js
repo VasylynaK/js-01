@@ -14,6 +14,6 @@ var b= Number(prompt('Please input parameter b'));
 var c = Number(prompt('Please input parameter c'));
 var calc = squareEquation (a, b, c);
 var result = "X1= " + calc[0] + "; X2= " + calc[1];
-var userInput = a + "x<sup>2</sup> +" +  b  + "x +" + c + "=0"; 
+var userInput = a + "x<sup>2</sup> +" +  b  + "x" + c + "=0"; 
 document.write("<br>" + "Your equation: " + userInput);
 document.write("<br>" + "Result: " + result);
